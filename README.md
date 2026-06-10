@@ -2,7 +2,7 @@
 Adds the option to change how Firefox addresses you in when you have it set to the default browser.
 
 # requirements
-You need to install [fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig). It is a userChrome.js manager that is used to inject the JS script into firefox.
+You need to install [fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig). It is a userChrome.js manager that is used to inject the JS script into firefox. This is due to firefox's built in restriction to scripts for their built-in pages.
 
 # install
 once you have fx-autoconfig installed, drag the `good-girl-firefox.uc.js` file into your `firefox profile > chrome > JS` folder (you shouldve created this when u followed the steps for fx-autoconfig).
